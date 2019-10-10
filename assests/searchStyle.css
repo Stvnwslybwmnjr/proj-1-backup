@@ -1,0 +1,129 @@
+/* This is the webpage background image  */
+body {
+    background-image: url("./Images/bodyBackgroundImg.png"); 
+}
+
+/* This is the back button wihtin the header image  */
+#backbtn {
+    font-size: 8px; 
+    background-color: #69686800
+}
+
+/* This is the background image */
+#header-img{
+    height: 600px;
+    background-image: url("./Images/PR_AspenChamber_maroonbellsJeremySwanson.jpg");
+    background-position: cover; 
+    margin-bottom: 0px; 
+}
+
+
+/* This is the content in the container that is stlling on the header image  */
+#FindYourTrailCardBody {
+    background-color: #f3ececa6; 
+    margin-top: 75px; 
+}
+
+#FindYourTrailText {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px; 
+    text-align: center; 
+    color: rgb(71, 71, 71); 
+}
+
+#search-bar {
+    margin: -20px -50px; 
+    position:relative;
+    left:100px; 
+}
+
+.search-icon {
+    font-size: 20px; 
+}
+
+/* This is for the content that will disappear when the searched content populates  */
+#explore-circle-body{
+    text-align: center; 
+}
+
+.bike-card{
+    border-radius: 100%; 
+}
+
+/* This is the text within the circle  */
+.search-to-explore {
+    margin-bottom: 0px;
+    top: 40px;
+    position: relative;
+    font-size: 26px;
+    color: rgb(255, 94, 0); 
+    font-family: 'Pacifico', cursive;
+    height: 20px;
+}
+
+/* this is increasing the size of the bootstrap row  */
+.empty-shake-row{
+    height: 400px; 
+    margin-top: 50px; 
+}
+
+.cartoon-moutins{
+    height: 175px;
+}
+
+#explore-circle {
+    text-align: center; 
+}
+
+.transparate-shake-box{
+    background-color: transparent; 
+}
+
+
+#biker-man{
+  font-size: 50px; 
+  color: rgb(255, 94, 0); 
+  top: -30px;
+  position: relative
+}
+
+
+
+/* This is styling the content within the populated search boxes  */
+.bg-white{
+    margin-bottom: 20px; 
+}
+
+
+img {
+    height: 200px;
+    width: 250px;
+    margin: 20px 10px;
+}
+
+.card { 
+    border: 0px; 
+}
+
+.btn-explore {
+    margin-top: 80px; 
+}
+
+
+
+/* This is the footer  */
+#footer {
+    background-color: #8d89896c; 
+    height: 40px; 
+    margin-top: 15px; 
+    bottom: 0;
+    width: 100%;
+}
+
+#copyright-text {
+    font-size: 10px; 
+    padding-left: 10px; 
+    padding-top: 10px; 
+    color: #696868
+}
+
